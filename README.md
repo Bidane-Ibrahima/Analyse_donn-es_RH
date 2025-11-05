@@ -43,3 +43,8 @@ Une fois ces paramètres saisis, toutes les informations affichées sont recalcu
 C’est un exemple d’analyse projective rendue possible grâce à Power BI, qui permet de simuler différents scénarios à partir de variables d’entrée telles que le salaire, le taux d’imposition ou le statut professionnel.
 
 Ainsi, les résultats sont obtenus instantanément, offrant une visualisation en temps réel des impacts de chaque paramètre sur le revenu.
+3.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture3.PNG?raw=true)
+c'est les salariés par région (nombre de salariés par split homme-femme par région)
+4.ILLUSTRATION
+
