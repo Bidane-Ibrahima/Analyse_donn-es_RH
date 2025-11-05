@@ -12,3 +12,4 @@ Analyse prédictive avec vos propres règles : simulateur de salaire Brut/net & 
 Vue High-level et précise pour chaque salarié.
 
 Pour chaque salarié, Récap complet avec comparateur de salaire par rapport au global et à la même catégorie / même tranche Age.
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture1.PNG?raw=true)
