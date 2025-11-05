@@ -1,4 +1,5 @@
 # Analyse_donn-es_RH
+INTRODUCTION
 KPIs_des_Salariées
 Vous êtes RH et vous travaillez chaque jour avec de grandes quantités de données ? 
 Vous avez certainement besoin de Power BI, sans même le savoir.
@@ -12,6 +13,7 @@ Analyse prédictive avec vos propres règles : simulateur de salaire Brut/net & 
 Vue High-level et précise pour chaque salarié.
 
 Pour chaque salarié, Récap complet avec comparateur de salaire par rapport au global et à la même catégorie / même tranche Age.
+1.ILLUSTRATION
 ![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture1.PNG?raw=true)
 Je commence par ce que j’appelle la vue globale.
 On retrouve ici un nuage de points représentant l’ensemble des salariés de l’entreprise. Les points bleus correspondent aux hommes, et les points roses aux femmes.
@@ -31,3 +33,4 @@ Si elle est jaune, la personne gagne en dessous du salaire moyen, et le smiley d
 Enfin, si elle est rouge, cela indique un écart important par rapport au salaire moyen, et le smiley apparaît furieux.
 
 Cet exemple illustre parfaitement les informations riches et interactives que l’on peut obtenir avec un reporting Power BI, simplement en survolant un point de données qui nous intéresse.
+2.ILLUSTRATIONS
