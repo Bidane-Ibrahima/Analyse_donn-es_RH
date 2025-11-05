@@ -56,7 +56,9 @@ C'est la différence de salaire Homme-Femme
 On a les pyramides des anciénnetés et des agés par sexe Homme-Femme
 
 6.ILLUSTRATION
-![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture6.PNG?raw=true))
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture6.PNG?raw=true)
 
-nOUS AVONS ICI le détail des salariés :
--
+nOUS AVONS ICI le détail des salariés 
+
+7.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture6.PNG?raw=true)
