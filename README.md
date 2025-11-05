@@ -46,5 +46,9 @@ Ainsi, les résultats sont obtenus instantanément, offrant une visualisation en
 3.ILLUSTRATION
 ![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture3.PNG?raw=true)
 c'est les salariés par région (nombre de salariés par split homme-femme par région)
+
 4.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture4.PNG?raw=true)
+
+C'est la différence de salaire Homme-Femme
 
