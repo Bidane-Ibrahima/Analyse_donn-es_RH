@@ -61,4 +61,8 @@ On a les pyramides des anciénnetés et des agés par sexe Homme-Femme
 nOUS AVONS ICI le détail des salariés 
 
 7.ILLUSTRATION
-![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture6.PNG?raw=true)
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture7.PNG?raw=true)
+Vous pouvez voir qu'on a toute les informations sur chaque salariés avec son numéros de matricule
+
+8.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture7.PNG?raw=true)
