@@ -1,4 +1,4 @@
-# Analyse_donn-es_RH
+# Reporting_RH
 INTRODUCTION
 KPIs_des_Salariées
 Vous êtes RH et vous travaillez chaque jour avec de grandes quantités de données ? 
@@ -33,4 +33,13 @@ Si elle est jaune, la personne gagne en dessous du salaire moyen, et le smiley d
 Enfin, si elle est rouge, cela indique un écart important par rapport au salaire moyen, et le smiley apparaît furieux.
 
 Cet exemple illustre parfaitement les informations riches et interactives que l’on peut obtenir avec un reporting Power BI, simplement en survolant un point de données qui nous intéresse.
-2.ILLUSTRATIONS
+2.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture2.PNG?raw=true)
+Nous pouvons poursuivre la navigation dans ce reporting RH.
+Je reviens donc sur la page d’accueil, et cette fois-ci, j’utilise le simulateur de salaire.
+Ce type d’outil vous est peut-être familier : il permet de sélectionner un salaire brut annuel, par exemple 61 000 €, d’indiquer un taux d’imposition, ici 29 %, ainsi que le statut (par exemple cadre) et le nombre de mois de rémunération, dans ce cas 13 mois.
+
+Une fois ces paramètres saisis, toutes les informations affichées sont recalculées automatiquement.
+C’est un exemple d’analyse projective rendue possible grâce à Power BI, qui permet de simuler différents scénarios à partir de variables d’entrée telles que le salaire, le taux d’imposition ou le statut professionnel.
+
+Ainsi, les résultats sont obtenus instantanément, offrant une visualisation en temps réel des impacts de chaque paramètre sur le revenu.
