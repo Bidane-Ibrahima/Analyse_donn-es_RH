@@ -69,6 +69,47 @@ Vous pouvez voir qu'on a toute les informations sur chaque salariés avec son nu
 LA partie qui contient le résumé des sélariés
 
 9.ILLUSTRATION
-![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture8.PNG?raw=true)
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture9.PNG?raw=true)
+
+Voici un autre exemple d’analyse projective réalisable avec Power BI.
+Une vue particulièrement intéressante est celle du visuel en treemap, comparable à un camembert, qui permet d’observer la répartition des salariés selon différents critères.
+
+Par exemple, on peut visualiser la proportion d’hommes et de femmes par nationalité, et constater qu’il existe une majorité de salariés français.
+Cette répartition peut également être effectuée par catégorie professionnelle, type de contrat ou encore niveau de qualification.
+
+De plus, il est possible d’affiner l’analyse à l’aide du visuel situé juste à côté, pour explorer plus en détail certaines dimensions des données.
+
+En résumé, Power BI offre une visualisation dynamique et interactive, permettant d’explorer facilement les différentes composantes de la population salariale.
+
+#CONCLUSION:
+Le reporting RH que je viens de vous présenter a été entièrement conçu et développé par moi, Ibrahima Bidane, sur Power BI Desktop, un outil gratuit et extrêmement puissant.
+Sur cet écran, vous pouvez voir un aperçu des différentes pages du rapport, ainsi que, sur la droite, l’ensemble des calculs et mesures nécessaires à son bon fonctionnement.
+
+Par exemple, dans le dossier intitulé Calcul Effectif, j’ai regroupé toutes les formules DAX qui assurent la précision des indicateurs.
+On y trouve notamment des mesures comme [Masse salariale totale ITD-1], construites à l’aide des fonctions CALCULATE et DATEADD.
+Cela illustre bien que l’utilisation de Power BI est un véritable savoir-faire, qui demande rigueur, logique et expertise technique.
+
+Au-delà des mesures, un tel rapport nécessite aussi une modélisation de données solide.
+J’ai donc conçu une vue Modèle structurée autour de plusieurs tables :
+
+des tables de faits, comme Fact Salarié ou Fact Différence Homme-Femme,
+
+et des tables de dimensions, telles que Dim Contrat, Dim Catégorie ou encore Dim Date.
+
+Enfin, aucune solution Power BI n’est complète sans une préparation minutieuse des données.
+C’est pourquoi j’ai porté une attention particulière à la phase Power Query, qui assure la netteté, la cohérence et la fiabilité des données exploitées.
+
+À travers ce projet, nous avons donc vu un exemple concret de reporting RH interactif et dynamique, où il est possible de naviguer à travers :
+
+une carte du monde affichant les effectifs par continent et par pays,
+
+ou encore un récapitulatif individuel apparaissant au simple survol d’un salarié.
+
+Et ce que je vous ai montré aujourd’hui n’est qu’un aperçu des possibilités infinies que Power BI peut offrir à la fonction RH.
+
+Pour toute formation, accompagnement ou création de reporting sur mesure,
+👉 contactez-moi, Ibrahima Bidane — je me ferai un plaisir de vous aider à transformer vos données en véritables leviers de décision.
+
+Vous pouvez trouver le fichier dans ce repositorie.
 
 
