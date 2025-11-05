@@ -51,4 +51,8 @@ c'est les salariés par région (nombre de salariés par split homme-femme par r
 ![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture4.PNG?raw=true)
 
 C'est la différence de salaire Homme-Femme
+5.ILLUSTRATION
+![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture5.PNG?raw=true)
+On a les pyramides des anciénnetés et des agés par sexe Homme-Femme
 
+6.![image_alt](https://github.com/Bidane-Ibrahima/Analyse_donn-es_RH/blob/main/Capture4.PNG?raw=true)
